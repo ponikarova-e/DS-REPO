@@ -1,0 +1,27 @@
+body {
+    font-size: 24px;
+}
+.blue {
+    color: blue;
+}
+.red {
+    color: red;
+}
+li.green {
+    color: green;
+}
+p.i {
+    font-weight: i;
+}
+p.b {
+    font-style: b;
+}
+ul  li.green {
+    color: green;
+}
+ul ol li.red {
+    color: red;
+}
+ul ol li.blue {
+    color: blue;
+}
